@@ -11,7 +11,7 @@
     
 # Instructions
 
-Download zcmd.bat and double click it.
+[Download](http://git.io/zcmd-download) zcmd.bat and double click it.
 
 # License
 
