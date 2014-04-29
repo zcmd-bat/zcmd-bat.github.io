@@ -1,4 +1,18 @@
-zcmd-bat.github.io
-==================
+                           _   _           _   
+                          | | | |         | |  
+     _______ _ __ ___   __| | | |__   __ _| |_ 
+    |_  / __| '_ ` _ \ / _` | | '_ \ / _` | __|
+     / / (__| | | | | | (_| |_| |_) | (_| | |_ 
+    /___\___|_| |_| |_|\__,_(_)_.__/ \__,_|\__|
+                                              
+                                                              
+    Get past Command Prompt Blockers! http://git.io/zcmd
+    
+    
+# Instructions
 
-zcmd
+Download zcmd.bat and double click it.
+
+# License
+
+WTFPLv2 (Not included)
